@@ -1,0 +1,51 @@
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.exe
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.csprojAssemblyReference.cache
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.Form1.resources
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.AssemblyInfoInputs.cache
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.AssemblyInfo.cs
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.deps.json
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.runtimeconfig.json
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.runtimeconfig.dev.json
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.dll
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.pdb
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.csproj.CopyComplete
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.dll
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.pdb
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.genruntimeconfig.cache
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.Form2.resources
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.Form3.resources
+C:\Users\rusfo\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\yt_DesignUI.frmMain.resources
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.exe
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.deps.json
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.runtimeconfig.json
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.runtimeconfig.dev.json
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.dll
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\WindowsFormsApp19.pdb
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.Properties.Resources.resources
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.AssemblyInfo.cs
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.dll
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.pdb
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.genruntimeconfig.cache
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\netcoreapp3.1\FontAwesome.Sharp.dll
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.Forms.achiv.resources
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.Forms.poliv.resources
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.Forms.udobr.resources
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.auth.resources
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.main.resources
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\yt_DesignUI.test.resources
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.test2.resources
+C:\Users\Dmitriy\Downloads\Telegram Desktop\Programmtmp\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\netcoreapp3.1\WindowsFormsApp19.Forms.message.resources
